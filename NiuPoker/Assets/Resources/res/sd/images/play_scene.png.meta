@@ -1,0 +1,2243 @@
+fileFormatVersion: 2
+guid: c84ef4c54409e6d41b71576d07b1fe10
+timeCreated: 1481018890
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: play_scene_0
+    21300002: play_scene_1
+    21300004: play_scene_2
+    21300006: play_scene_3
+    21300008: play_scene_4
+    21300010: play_scene_5
+    21300012: play_scene_6
+    21300014: play_scene_7
+    21300016: play_scene_8
+    21300018: play_scene_9
+    21300020: play_scene_10
+    21300022: play_scene_11
+    21300024: play_scene_12
+    21300026: play_scene_13
+    21300028: play_scene_14
+    21300030: play_scene_15
+    21300032: play_scene_16
+    21300034: play_scene_17
+    21300036: play_scene_18
+    21300038: play_scene_19
+    21300040: play_scene_20
+    21300042: play_scene_21
+    21300044: play_scene_22
+    21300046: play_scene_23
+    21300048: play_scene_24
+    21300050: play_scene_25
+    21300052: play_scene_26
+    21300054: play_scene_27
+    21300056: play_scene_28
+    21300058: play_scene_29
+    21300060: play_scene_30
+    21300062: play_scene_31
+    21300064: play_scene_32
+    21300066: play_scene_33
+    21300068: play_scene_34
+    21300070: play_scene_35
+    21300072: play_scene_36
+    21300074: play_scene_37
+    21300076: play_scene_38
+    21300078: play_scene_39
+    21300080: play_scene_40
+    21300082: play_scene_41
+    21300084: play_scene_42
+    21300086: play_scene_43
+    21300088: play_scene_44
+    21300090: play_scene_45
+    21300092: play_scene_46
+    21300094: play_scene_47
+    21300096: play_scene_48
+    21300098: play_scene_49
+    21300100: play_scene_50
+    21300102: play_scene_51
+    21300104: play_scene_52
+    21300106: play_scene_53
+    21300108: play_scene_54
+    21300110: play_scene_55
+    21300112: play_scene_56
+    21300114: play_scene_57
+    21300116: play_scene_58
+    21300118: play_scene_59
+    21300120: play_scene_60
+    21300122: play_scene_61
+    21300124: play_scene_62
+    21300126: play_scene_63
+    21300128: play_scene_64
+    21300130: play_scene_65
+    21300132: play_scene_66
+    21300134: play_scene_67
+    21300136: play_scene_68
+    21300138: play_scene_69
+    21300140: play_scene_70
+    21300142: play_scene_71
+    21300144: play_scene_72
+    21300146: play_scene_73
+    21300148: play_scene_74
+    21300150: play_scene_75
+    21300152: play_scene_76
+    21300154: play_scene_77
+    21300156: play_scene_78
+    21300158: play_scene_79
+    21300160: play_scene_80
+    21300162: play_scene_81
+    21300164: play_scene_82
+    21300166: play_scene_83
+    21300168: play_scene_84
+    21300170: play_scene_85
+    21300172: play_scene_86
+    21300174: play_scene_87
+    21300176: play_scene_88
+    21300178: play_scene_89
+    21300180: play_scene_90
+    21300182: play_scene_91
+    21300184: play_scene_92
+    21300186: play_scene_93
+    21300188: play_scene_94
+    21300190: play_scene_95
+    21300192: play_scene_96
+    21300194: play_scene_97
+    21300196: play_scene_98
+    21300198: play_scene_99
+    21300200: play_scene_100
+    21300202: play_scene_101
+    21300204: play_scene_102
+    21300206: play_scene_103
+    21300208: play_scene_104
+    21300210: play_scene_105
+    21300212: play_scene_106
+    21300214: play_scene_107
+    21300216: play_scene_108
+    21300218: play_scene_109
+    21300220: play_scene_110
+    21300222: play_scene_111
+    21300224: play_scene_112
+    21300226: play_scene_113
+    21300228: play_scene_114
+    21300230: play_scene_115
+    21300232: play_scene_116
+    21300234: play_scene_117
+    21300236: play_scene_118
+    21300238: play_scene_119
+    21300240: play_scene_120
+    21300242: play_scene_121
+    21300244: play_scene_122
+    21300246: play_scene_123
+    21300248: play_scene_124
+    21300250: play_scene_125
+    21300252: play_scene_126
+    21300254: play_scene_127
+    21300256: play_scene_128
+    21300258: play_scene_129
+    21300260: play_scene_130
+    21300262: play_scene_131
+    21300264: play_scene_132
+    21300266: play_scene_133
+    21300268: play_scene_134
+    21300270: play_scene_135
+    21300272: play_scene_136
+    21300274: play_scene_137
+    21300276: play_scene_138
+    21300278: play_scene_139
+    21300280: play_scene_140
+    21300282: play_scene_141
+    21300284: play_scene_142
+    21300286: play_scene_143
+    21300288: play_scene_144
+    21300290: play_scene_145
+    21300292: play_scene_146
+    21300294: play_scene_147
+    21300296: play_scene_148
+    21300298: play_scene_149
+    21300300: play_scene_150
+    21300302: play_scene_151
+    21300304: play_scene_152
+    21300306: play_scene_153
+    21300308: play_scene_154
+    21300310: play_scene_155
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: play_scene_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1927
+        width: 774
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1405
+        width: 720
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1976
+        width: 208
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1938
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1285
+        width: 720
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1866
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1905
+        width: 208
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_7
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1829
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1820
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1828
+        width: 192
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1778
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1750
+        width: 192
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_12
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1792
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_13
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1691
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_14
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1746
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_15
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1662
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_16
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1702
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1646
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_18
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1672
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1603
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_20
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1575
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_21
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1611
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_22
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1516
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1489
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1558
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1429
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1403
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1484
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1430
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1342
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1329
+        width: 550
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_31
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1375
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_32
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1376
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_33
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1280
+        width: 27
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1317
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_35
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1400
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_36
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1345
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_37
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1345
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_38
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1354
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_39
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1297
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1253
+        width: 548
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_41
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1212
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_42
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1231
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_43
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1309
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 825
+        width: 471
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1256
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1256
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1256
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_48
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1246
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_49
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1265
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1170
+        width: 247
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_51
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1168
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 793
+        width: 471
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_53
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1192
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_54
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1212
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_55
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1145
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_56
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1134
+        width: 43
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_57
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1131
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_58
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1088
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_59
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1178
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_60
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1084
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_61
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1140
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1142
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1148
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_64
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1120
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1110
+        width: 108
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_66
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1070
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_67
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1058
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_68
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1059
+        width: 176
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_69
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1104
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_70
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1105
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_71
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 998
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_72
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1080
+        width: 108
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_73
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 964
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_74
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1075
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_75
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1050
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_76
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1051
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_77
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1009
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_78
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 973
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_79
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1050
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_80
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 912
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_81
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 993
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 990
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_83
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 948
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_84
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 995
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_85
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 977
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_86
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 961
+        width: 108
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_87
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 844
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_88
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 870
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_89
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 887
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_90
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 890
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_91
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 932
+        width: 108
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_92
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 874
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_93
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 826
+        width: 176
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 876
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 872
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_96
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 801
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_97
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 845
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 463
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_99
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 740
+        width: 176
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_100
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 768
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_101
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 800
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_102
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 722
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_103
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 746
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_104
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 805
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 726
+        width: 312
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_106
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 678
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_107
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 664
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_108
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 706
+        width: 304
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_109
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 707
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_110
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 726
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_111
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 715
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_112
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 681
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_113
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 681
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 654
+        width: 312
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_115
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 591
+        width: 304
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 573
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_117
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 619
+        width: 304
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_118
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 621
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_119
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 652
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_120
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 631
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_121
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 629
+        width: 182
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_122
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 592
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 567
+        width: 304
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 505
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_125
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 535
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_126
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 578
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_127
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 544
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_128
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 543
+        width: 180
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_129
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 413
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_131
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 481
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_132
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 487
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_133
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 504
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_134
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 455
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_135
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 457
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_137
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_138
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_140
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_141
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_142
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_143
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_144
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 276
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_145
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 371
+        width: 177
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_146
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 234
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_149
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_150
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_151
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_153
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_154
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play_scene_155
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 55
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

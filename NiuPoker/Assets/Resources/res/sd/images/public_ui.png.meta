@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 0d037b687c00d554b973c703b6b37313
+timeCreated: 1481179722
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: public_ui_0
+    21300002: public_ui_1
+    21300004: public_ui_2
+    21300006: public_ui_3
+    21300008: public_ui_4
+    21300010: public_ui_5
+    21300012: public_ui_6
+    21300014: public_ui_7
+    21300016: public_ui_8
+    21300018: public_ui_9
+    21300020: public_ui_10
+    21300022: public_ui_11
+    21300024: public_ui_12
+    21300026: public_ui_13
+    21300028: public_ui_14
+    21300030: public_ui_15
+    21300032: public_ui_16
+    21300034: public_ui_17
+    21300036: public_ui_18
+    21300038: public_ui_19
+    21300040: public_ui_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: public_ui_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 667
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 952
+        width: 243
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 873
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_4
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 873
+        width: 107
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 874
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 816
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 714
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 572
+        width: 151
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 714
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_10
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 665
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 508
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 408
+        width: 385
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 579
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 884
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 587
+        width: 147
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 661
+        width: 143
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_19
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 753
+        width: 145
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: public_ui_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 830
+        width: 186
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

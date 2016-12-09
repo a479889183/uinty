@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 3b5ce49da0b21174bb783360f177eaf8
+timeCreated: 1480926485
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: baozhayanwu_0
+    21300002: baozhayanwu_1
+    21300004: baozhayanwu_2
+    21300006: baozhayanwu_3
+    21300008: baozhayanwu_4
+    21300010: baozhayanwu_5
+    21300012: baozhayanwu_6
+    21300014: baozhayanwu_7
+    21300016: baozhayanwu_8
+    21300018: baozhayanwu_9
+    21300020: baozhayanwu_10
+    21300022: baozhayanwu_11
+    21300024: baozhayanwu_12
+    21300026: baozhayanwu_13
+    21300028: baozhayanwu_14
+    21300030: baozhayanwu_15
+    21300032: baozhayanwu_16
+    21300034: baozhayanwu_17
+    21300036: baozhayanwu_18
+    21300038: baozhayanwu_19
+    21300040: baozhayanwu_20
+    21300042: baozhayanwu_21
+    21300044: baozhayanwu_22
+    21300046: baozhayanwu_23
+    21300048: baozhayanwu_24
+    21300050: baozhayanwu_25
+    21300052: baozhayanwu_26
+    21300054: baozhayanwu_27
+    21300056: baozhayanwu_28
+    21300058: baozhayanwu_29
+    21300060: baozhayanwu_30
+    21300062: baozhayanwu_31
+    21300064: baozhayanwu_32
+    21300066: baozhayanwu_33
+    21300068: baozhayanwu_34
+    21300070: baozhayanwu_35
+    21300072: baozhayanwu_36
+    21300074: baozhayanwu_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baozhayanwu_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 553
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 555
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 546
+        width: 118
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 546
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_4
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 546
+        width: 203
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 547
+        width: 203
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 366
+        width: 213
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 372
+        width: 211
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 371
+        width: 215
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 372
+        width: 215
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_10
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 494
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 378
+        width: 209
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_12
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 500
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_13
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 381
+        width: 203
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_15
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_16
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 492
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 492
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_18
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 472
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 472
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 469
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_21
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 478
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 465
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_23
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 449
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 302
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 201
+        width: 206
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 302
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 204
+        width: 206
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 205
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_29
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 207
+        width: 209
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_30
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 212
+        width: 179
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_31
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 216
+        width: 171
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_33
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 45
+        width: 117
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 62
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_35
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 74
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_36
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 94
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: baozhayanwu_37
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 102
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

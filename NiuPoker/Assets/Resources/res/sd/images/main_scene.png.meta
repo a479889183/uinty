@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 8d32ce743d3df9841afea8c51259ff86
+timeCreated: 1481024929
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: main_scene_0
+    21300002: main_scene_1
+    21300004: main_scene_2
+    21300006: main_scene_3
+    21300008: main_scene_4
+    21300010: main_scene_5
+    21300012: main_scene_6
+    21300014: main_scene_7
+    21300016: main_scene_8
+    21300018: main_scene_9
+    21300020: main_scene_10
+    21300022: main_scene_11
+    21300024: main_scene_12
+    21300026: main_scene_13
+    21300028: main_scene_14
+    21300030: main_scene_15
+    21300032: main_scene_16
+    21300034: main_scene_17
+    21300036: main_scene_18
+    21300038: main_scene_19
+    21300040: main_scene_20
+    21300042: main_scene_21
+    21300044: main_scene_22
+    21300046: main_scene_23
+    21300048: main_scene_24
+    21300050: main_scene_25
+    21300052: main_scene_26
+    21300054: main_scene_27
+    21300056: main_scene_28
+    21300058: main_scene_29
+    21300060: main_scene_30
+    21300062: main_scene_31
+    21300064: main_scene_32
+    21300066: main_scene_33
+    21300068: main_scene_34
+    21300070: main_scene_35
+    21300072: main_scene_36
+    21300074: main_scene_37
+    21300076: main_scene_38
+    21300078: main_scene_39
+    21300080: main_scene_40
+    21300082: main_scene_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main_scene_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 419
+        width: 1280
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_1
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 381
+        width: 431
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_2
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 392
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 811
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 46
+        width: 341
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 139
+        width: 31
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_6
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 139
+        width: 45
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_7
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 288
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 422
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 6
+        width: 401
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_10
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 194
+        width: 197
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 194
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_12
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 294
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 276
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_14
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 278
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_15
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 221
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_16
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 220
+        width: 187
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_17
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 222
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_18
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 238
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_19
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 184
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_20
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 194
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_21
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 102
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_22
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 109
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_23
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 159
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_24
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_25
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 0
+        width: 58
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 60
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_27
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 60
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_28
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 93
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_29
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 130
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_30
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_31
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 60
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_32
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_33
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_34
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 84
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_35
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2
+        width: 241
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_36
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 12
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_37
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_38
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_39
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2
+        width: 149
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_40
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 9
+        width: 183
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_scene_41
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 31
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

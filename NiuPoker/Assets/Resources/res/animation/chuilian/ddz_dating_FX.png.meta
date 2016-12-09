@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 21c6b4153e650254298cea5057550f8c
+timeCreated: 1480984743
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ddz_dating_FX_0
+    21300002: ddz_dating_FX_1
+    21300004: ddz_dating_FX_2
+    21300006: ddz_dating_FX_3
+    21300008: ddz_dating_FX_4
+    21300010: ddz_dating_FX_5
+    21300012: ddz_dating_FX_6
+    21300014: ddz_dating_FX_7
+    21300016: ddz_dating_FX_8
+    21300018: ddz_dating_FX_9
+    21300020: ddz_dating_FX_10
+    21300022: ddz_dating_FX_11
+    21300024: ddz_dating_FX_12
+    21300026: ddz_dating_FX_13
+    21300028: ddz_dating_FX_14
+    21300030: ddz_dating_FX_15
+    21300032: ddz_dating_FX_16
+    21300034: ddz_dating_FX_17
+    21300036: ddz_dating_FX_18
+    21300038: ddz_dating_FX_19
+    21300040: ddz_dating_FX_20
+    21300042: ddz_dating_FX_21
+    21300044: ddz_dating_FX_22
+    21300046: ddz_dating_FX_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ddz_dating_FX_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 292
+        width: 225
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 292
+        width: 226
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 291
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 291
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_4
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 291
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 292
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_6
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 292
+        width: 225
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_7
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 292
+        width: 226
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 149
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 149
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 149
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 150
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_12
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 150
+        width: 225
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_13
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 150
+        width: 226
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_14
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 149
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_15
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 149
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 7
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 7
+        width: 225
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6
+        width: 225
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_21
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 6
+        width: 225
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_22
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 6
+        width: 224
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ddz_dating_FX_23
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 7
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
